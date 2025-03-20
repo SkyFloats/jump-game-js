@@ -1,2 +1,8 @@
 # jump-game-js
-a game for web using html, css and JS
+Este repositório contém códigos de estudo das tecnologias css, html e javascript, desenvolvidos atrávés da implementação de um jogo baseado no "Super Mario".
+
+## Pré-Requisitos
+
+## Autores
+
+- Daniel Lucas (Eu mesmo)
